@@ -68,7 +68,7 @@
     "deep-equal": "^2.0.3",
     "eslint": "^9.31.0",
     "eslint-plugin-import": "^2.31.0",
-    "eslint-plugin-jsdoc": "^50.6.6",
+    "eslint-plugin-jsdoc": "^50.8.0",
     "execa": "^1.0.0",
     "faker": "^5.5.3",
     "fancy-log": "^2.0.0",
